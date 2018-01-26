@@ -6,3 +6,11 @@ body {
 p {
   color: blue;
  }
+
+.hero {
+  padding:250px 0;
+  margin: 30px;
+  font-family: 'Verdana', sans-serif;
+  background-image:("http://feelgrafix.com/data/background/background-15.jpg");
+  Background-size: cover;
+}
