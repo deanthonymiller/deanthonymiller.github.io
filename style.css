@@ -1,4 +1,8 @@
-p { 
-  font-family: Georgia, sans-serif;
-  color: #ffffff;
+body {
+   font-family: Georgia, serif;
+   font-weight: 300;
+}
+
+p  {
+  color: red;
 }
