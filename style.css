@@ -16,3 +16,8 @@ p {
    url("http://feelgrafix.com/data/background/background-15.jpg");
   Background-size: cover;
 }
+
+.hero a {
+  color: #00FFAA'
+  font-size: 1.25em;
+}
