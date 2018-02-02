@@ -1,7 +1,11 @@
-html {
+#page1 .html {
  background-image: url(joel-peel-131757.jpg);
  background-size: cover;
 }
+
+#page2 .html {
+ background-image: url(daniil-avilov-428715.jpg);
+ background-image: cover;
 
 body {
  font-family: 'Verdana', sans-serif;
