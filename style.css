@@ -10,12 +10,11 @@ body {
 }
 
 p {
-  color: blue;
+  
  }
 
 .hero {
   font-family: 'Verdana', sans-serif;
-  color: red;
 }
 
 .hero a {
