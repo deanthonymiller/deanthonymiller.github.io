@@ -30,7 +30,7 @@ ul#menu li {
 ul#menu li a {
         color:black;
         Padding 10px 20px;
-        text-decoration: none;
+        text-decoration: underline;
         border-radius: 4px 4px 0 0;
  
  ul#menu li a: hover {
