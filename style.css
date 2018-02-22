@@ -3,7 +3,7 @@ html {
 }
 
 .resume-bg {
- background-image: url(resume-bg.jpg);
+ background-image: url(joanna-kosinska-129039-unsplash.jpg);
  background-size: cover;
 }
 
@@ -12,6 +12,10 @@ html {
  background-size: cover;
 }
 
+} .contact-bg {
+   backgroubd-image: url(lukas-blazek-263121-unsplash.jpg);
+   background-size: cover;
+}
 
 }
 body {
