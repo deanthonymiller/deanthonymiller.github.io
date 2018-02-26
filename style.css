@@ -37,6 +37,10 @@ h1 {
  text-decoration: underline;
 }
 
+.wrap li{
+  text-decoration: none;
+}
+
 ul#menu {
  padding:0;
 }
