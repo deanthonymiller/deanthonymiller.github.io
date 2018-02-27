@@ -55,7 +55,7 @@ ul#menu li a {
   background-color: blue
  }
  
-ul#drive {
+.parent {
    text-align: center;
    List-style-position: inside;
  }
