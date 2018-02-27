@@ -57,7 +57,7 @@ ul#menu li a {
 .parent {
    text-align: center;
  }
-.parent > ul{
+.parent ul{
    display: inline-block;
  }
  
