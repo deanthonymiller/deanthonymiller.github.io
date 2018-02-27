@@ -56,9 +56,11 @@ ul#menu li a {
  
 .parent {
    text-align: center;
-   List-style-position: inside;
  }
-
+.parent > ul{
+   display: inline-block;
+ }
+ 
 .hero {
   font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
 }
