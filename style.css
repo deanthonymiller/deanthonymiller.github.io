@@ -56,6 +56,7 @@ ul#menu li a {
  
 .parent {
    text-align: center;
+   text-decoration: none;
  }
 .parent ul{
    text-decoration: none;
