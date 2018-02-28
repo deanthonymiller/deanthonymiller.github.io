@@ -58,7 +58,7 @@ ul#menu li a {
    text-align: center;
  }
 .parent ul{
-   display: inline-block;
+   text-decoration: none;
  }
  
 .hero {
