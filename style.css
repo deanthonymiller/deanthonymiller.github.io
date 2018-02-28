@@ -12,9 +12,6 @@ html {
  background-size: cover;
 }
 
-.contact-bg {
-   background-image: url(lukas-blazek-263121-unsplash.jpg);
-   background-size: cover;
 }
 
 }
@@ -52,14 +49,6 @@ ul#menu li a {
  
  ul#menu li a: hover {
   background-color: blue
- }
- 
-.parent {
-   text-align: center;
-   text-decoration: none;
- }
-.parent ul{
-   text-decoration: none;
  }
  
 .hero {
